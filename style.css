@@ -16,4 +16,10 @@ font-weight: bold;}
 h3 {font-size: 23px;
 font-weight: bold;}
 
-p {font-size: 14px;}
+p {font-size: 14px;
+}
+
+.NYDesign h2 {color: white;
+background-image: url('./resources/the-flatiron-building.png');
+font-size: 23px
+}
