@@ -23,3 +23,9 @@ p {font-size: 14px;
 background-image: url('./resources/the-flatiron-building.png');
 font-size: 23px
 }
+
+.copyrightline {background-color: dimgray;
+text-align: left;
+color: white;
+
+}
